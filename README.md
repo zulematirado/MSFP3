@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos [No. Control]; correo institucional
+Zulema Guadalupe Tirado Manzo[23210724]; l23210724@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
