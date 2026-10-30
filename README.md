@@ -204,20 +204,6 @@ $$
 
 Por lo tanto, el error estacionario entre ambas respuestas de fuerza es cero, aunque sus respuestas transitorias son diferentes. Si el error se define entre la entrada unitaria y la salida de fuerza, es 1 − 0.75 = 0.25. Estos resultados no sustituyen el análisis de error del desplazamiento solicitado para el sistema de control.
 
-### Simulaciones y resultados
-
-La respuesta al impulso unitario se estudia de 0 a 10 segundos. En MATLAB/Simulink se comparan las ecuaciones del sistema y las funciones de transferencia; en Simscape Electrical se verifica el circuito equivalente. Las mismas condiciones se reproducen en Python para comprobar los resultados.
-
-| Condición | Respuesta a comparar | Herramientas |
-|---|---|---|
-| Individuo sano (control) | Respuesta al impulso en lazo abierto | MATLAB, Simulink, Simscape y Python |
-| Atrofia muscular (caso) | Respuesta al impulso en lazo abierto | MATLAB, Simulink, Simscape y Python |
-| Caso con controlador | Seguimiento de la respuesta del control | MATLAB/Simulink y Python |
-
-Se incorpora un controlador PID al caso y se ajustan sus ganancias con **Tune** de Simulink para reducir el error respecto al individuo sano. Los valores de las ganancias y las gráficas se agregan una vez obtenidos en la simulación.
-
-Se incluye además un diagrama biológico que identifique el elemento contráctil, las estructuras elásticas, el tendón, la fuerza, el desplazamiento y los elementos viscosos del modelo.
-
 **Palabras clave:** Sistema musculoesquelético; Atrofia muscular; Analogía fuerza–voltaje; Superposición; Función de transferencia; Controlador PID; MATLAB; Python.
 
 ## Lista de archivos incluidos en el repositorio
