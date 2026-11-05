@@ -212,11 +212,9 @@ Por lo tanto, el error estacionario entre ambas respuestas de fuerza es cero, au
 2. Modelos de Simulink [.slx] y circuito equivalente en Simscape Electrical.
 3. Código fuente de Python [.py].
 4. Análisis matemático: ecuaciones, superposición, funciones de transferencia, estabilidad y error estacionario.
-5. Gráficas de lazo abierto y lazo cerrado del control, caso y sistema con PID [.pdf y .png].
-6. Capturas de la sintonización del controlador y sus ganancias kP, kI y kD.
-7. Diagrama biológico del sistema musculoesquelético.
-8. Capturas de las simulaciones y archivos complementarios.
-9. Archivo README.md y archivo CITATION.cff con los datos del repositorio.
+5. Gráficas de lazo abierto y lazo cerrado del control, caso y sistema con PID [.pdf].
+6. Diagrama biológico del sistema musculoesquelético.
+7. Capturas de las simulaciones y archivos complementarios.
 
 ## Referencias
 
