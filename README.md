@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Africa Montserrat Rodriguez Garcia [C21211891]; L21211891@tijuana.tecnm.mx
+Tirado Manzo Zulema Guadalupe [23210724]; L23210724@tijuana.tecnm.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -43,7 +43,8 @@ Mediante la analogía fuerza–voltaje, la fuerza corresponde al voltaje, la vel
 
 ### Diagrama biológico del sistema musculoesquelético
 
-![Diagrama biológico del sistema musculoesquelético elaborado en BioRender](biorender.jpeg)
+<img width="720" height="504" alt="image" src="https://github.com/user-attachments/assets/1bf5bc10-f671-4bc6-b97b-033ee435c4bb" />
+
 
 **Figura 1.** Representación biológica del modelo musculoesquelético. El elemento contráctil genera la fuerza activa, las estructuras musculares pasivas aportan elasticidad, el tendón transmite la fuerza y el componente viscoso representa la resistencia a la deformación. Se conserva la autoría indicada en la imagen original.
 
