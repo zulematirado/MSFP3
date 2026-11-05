@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Práctica 3: Modelado y control del sistema
+  musculoesquelético
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Zulema Guadalupe '
+    family-names: Tirado Manzo
+    email: l23210724@tectijuana.edu.mx
+    affiliation: TecNM / IT Tijuana
+repository-code: 'https://github.com/zulematirado/MSFP3'
+keywords:
+  - Sistema musculoesquelético
+  - Atrofia muscular
+  - Analogía fuerza–voltaje
+  - Superposición
+  - PID
+license: BSD-2-Clause
+date-released: '2026-11-04'
