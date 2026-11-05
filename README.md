@@ -214,7 +214,6 @@ Por lo tanto, el error estacionario entre ambas respuestas de fuerza es cero, au
 4. Análisis matemático: ecuaciones, superposición, funciones de transferencia, estabilidad y error estacionario.
 5. Gráficas de lazo abierto y lazo cerrado del control, caso y sistema con PID [.pdf].
 6. Diagrama biológico del sistema musculoesquelético.
-7. Capturas de las simulaciones y archivos complementarios.
 
 ## Referencias
 
